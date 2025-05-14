@@ -20,5 +20,4 @@ java -jar nethost.jar send
 ```
 
 ## Disclaimer
-- I haven't used Maven or any build tool because the project is too small.
-- This is my first Java project, so keep your expectations low, I am still learning.
+- This is my first Java project, so I am still learning.
